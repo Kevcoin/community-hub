@@ -26,6 +26,19 @@ You can find more information about the connection process [on the Optimism Help
 For now, simply [head to this link](https://chainid.link/?network=optimism-kovan) and click "Connect".
 Accept the popup that shows up in MetaMask and you'll be connected to the Optimism Kovan testnet.
 
+
+With [Coinbase Wallet](https://www.coinbase.com/wallet/developers), Optimism is whitelisted, allowing Coinbase Wallet to automatically detect all assets held in the user's wallet. No manual RPC network needed. 
+1) To set up Optimism Mainnet or Optimism Kovan Testnet on Coinbase Wallet
+- On Coinbase Wallet (desktop) you can switch to Optimism Mainnet or Optimism Kovan Testnet with below steps:
+- Open the settings from the top right
+- Enable the 'Developer Mode' checkbox
+- In settings under 'Default Network' you will find Optimism Mainnet and Optimism Kovan Testnet
+2) For Coinbase Wallet (mobile):
+- Open Settings in the bottom right
+- Open Default Network
+- Switch Network to Optimism Mainnet or Optimism Kovan Testnet
+
+
 ## Getting some testnet ETH
 
 Like on Ethereum, transaction fees on Optimism are paid in ETH.
